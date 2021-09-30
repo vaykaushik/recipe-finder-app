@@ -1,5 +1,7 @@
 A recipe finder app using The Meal DB Free API.
 
+Here is a link to the app: https://vaysrecipefinderapp.netlify.app/
+
 What the app does:
 
 1 - A user can search their favourite food and the API will display whatever it has available.
